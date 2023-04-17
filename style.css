@@ -1,0 +1,24 @@
+body {
+	background-color: #c1c8e4;
+	margin: 10%;
+	text-align: center;
+}
+
+img {
+	display: inline-block;
+}
+
+h1 {
+	font-family: coldiac;
+}
+
+link {
+	text-decoration: none;
+	color: #9400d3;
+}
+ul {
+	text-align: left;
+	background-color: rgb(241, 241, 236);
+	width: 600px;
+	margin: 20px;
+}
